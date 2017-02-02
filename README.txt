@@ -28,7 +28,7 @@ YOUR GRAPH WILL BE SHOWN IN 3 seconds.
 39                                                                                 
 38                                                                                 
 37                                                                                 
-36   *                                                                           * 
+36   *                                                                           *  
 35                                                                                 
 34                                                                                 
 33                                                                                 
