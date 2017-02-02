@@ -3,7 +3,7 @@ A function that graphs either linear, quadratic, or cubic function in the consol
 
 SAMPLE OUTPUT:
 ================================================================================
-WELCOME TO TERMINAL GRAPH V1.2.3
+WELCOME TO TERMINAL GRAPH V1.2.5
 ================================================================================
 
 PLEASE, expand the width of your console/terminal window so that the lines (the equal signs) above take each only one line.
@@ -75,7 +75,7 @@ Please respond with Y for "YES" or N for "NO"
 N
 
 ================================================================================
-THANK YOU FOR USING TERMINAL GRAPH V1.2.3
+THANK YOU FOR USING TERMINAL GRAPH V1.2.5
 ================================================================================
 
 
